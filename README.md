@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Remzi Cenk
 
 <!--
 **rcenk/rcenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3> Who Am I? </h3>
+
+- I am a student of Information Systems Engineering at Kocaeli University and Computer Networks is my area of interest. I work on machine learning and image processing.
+
+- **My Certificates**
+* &nbsp; Introduction to IoT
+* &nbsp; Introduction to Cybersecurity
+* &nbsp; Cybersecurity Essentials
+* &nbsp; Entrepreneurship
+* &nbsp; CCNAv7 Bridging
+* &nbsp; NDG Linux Unhatched
+* &nbsp; NDG Linux Essentials
+* &nbsp; IT Essentials: PC Hardware and Software
+* &nbsp; NDG Linux Essentials
+* &nbsp; CompTIA A+ 220-902 Information Technology Support Staff
+* &nbsp; Comptia N10-007 Network+ Network Technologies
+* &nbsp; Digital Electronics and Embedded Systems
+* &nbsp; Mobility Fundamentals
+
+- **Programming Languages**
+* &nbsp; Python
+* &nbsp; C#
+* &nbsp; C++
+* &nbsp; JavaScript
+* &nbsp; PHP
+
+</br>
+
+[![Remzi Cenk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rcenk&show_icon=true&theme=dark)](https://github.com/rcenk/)
