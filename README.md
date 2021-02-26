@@ -20,18 +20,18 @@ Here are some ideas to get you started:
 - 💬 I am a student of Information Systems Engineering at Kocaeli University and Computer Networks is my area of interest. I work on machine learning and image processing.
 
 - 🏆 **My Certificates** 🏆
-🔴 &nbsp; Introduction to IoT
-🟡 &nbsp; Introduction to Cybersecurity
-🔵 &nbsp; Cybersecurity Essentials
-🟤 &nbsp; Entrepreneurship
-⚪ &nbsp; CCNAv7 Bridging
-🟠 &nbsp; NDG Linux Unhatched
-🟢 &nbsp; NDG Linux Essentials
-🟣 &nbsp; IT Essentials: PC Hardware and Software
-⚫ &nbsp; CompTIA A+ 220-902 Information Technology Support Staff
-🔴 &nbsp; Comptia N10-007 Network+ Network Technologies
-🔵 &nbsp; Digital Electronics and Embedded Systems
-🟤 &nbsp; Mobility Fundamentals
+* 🔴 &nbsp; Introduction to IoT
+* 🟡 &nbsp; Introduction to Cybersecurity
+* 🔵 &nbsp; Cybersecurity Essentials
+* 🟤 &nbsp; Entrepreneurship
+* ⚪ &nbsp; CCNAv7 Bridging
+* 🟠 &nbsp; NDG Linux Unhatched
+* 🟢 &nbsp; NDG Linux Essentials
+* 🟣 &nbsp; IT Essentials: PC Hardware and Software
+* ⚫ &nbsp; CompTIA A+ 220-902 Information Technology Support Staff
+* 🔴 &nbsp; Comptia N10-007 Network+ Network Technologies
+* 🔵 &nbsp; Digital Electronics and Embedded Systems
+* 🟤 &nbsp; Mobility Fundamentals
 
 - **Programming Languages**
 * 💻 &nbsp; Python
