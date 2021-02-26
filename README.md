@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 
 [![Remzi Cenk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rcenk&show_icon=true&theme=dark)](https://github.com/rcenk/)
 
+Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcenk&layout=compact)](https://github.com/rcenk/)
 
 [![Remzi Cenk's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rcenk)](https://github.com/rcenk/)
