@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3> Who Am I? </h3>
 
-- 💬 I am a student of Information Systems Engineering at Kocaeli University and Computer Networks is my area of interest. I work on machine learning and image processing.
+- 💬 I am a student of Information Systems Engineering Master's Degree at Kocaeli University also I am working as Assistant Information Technologies Specialist at MAPA Automotive. and Computer Networks is my area of interest. I work on machine learning, steganography and image processing.
 
 - 🏆 **My Certificates** 🏆
 * 🔴 &nbsp; Introduction to IoT
