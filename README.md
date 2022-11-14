@@ -37,8 +37,10 @@ Here are some ideas to get you started:
 * 💻 &nbsp; Python
 * 💻 &nbsp; C#
 * 💻 &nbsp; C++
+* 💻 &nbsp; Java
 * 💻 &nbsp; JavaScript
 * 💻 &nbsp; PHP
+* 💻 &nbsp; MATLAB
 
 </br>
 
